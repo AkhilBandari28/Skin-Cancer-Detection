@@ -25,7 +25,7 @@ The goal of this project is to accurately detect skin cancer by analyzing images
 ### Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/skin-cancer-detection.git
+   git clone https://github.com/AkhilBandari28/Skin-Cancer-Detection
    ```
 2. Navigate to the project directory:
    ```bash
